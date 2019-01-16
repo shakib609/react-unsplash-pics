@@ -6,7 +6,6 @@ import App from './components/App'
 dotenv.config({
   path: '../.env.local'
 })
-console.log(process.env.REACT_APP_UNSPLASH_ACCESS_KEY)
 
 ReactDOM.render(
   <App />,
