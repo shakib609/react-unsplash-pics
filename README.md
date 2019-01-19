@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### API Key
+You have to generate your own API keys from [https://unsplash.com/developers](https://unsplash.com/developers).
+
+Then you can keep it in `.env.local` file or configure yourself.
+
 ## Available Scripts
 
 In the project directory, you can run:
